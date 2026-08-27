@@ -40,6 +40,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Add deployment news entry
+        run: |
+          DATE=$(date -u +"%Y-%m-%d")
+          printf -- '---\nlayout: post\ndate: %s\ninline: true\nrelated_posts: false\n---\n\nWebsite last updated on %s.\n' "$DATE" "$DATE" > _news/website_updated.md
+
       - name: Build with Jekyll
         run: |
           pip3 install --upgrade nbconvert
