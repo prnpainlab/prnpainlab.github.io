@@ -43,7 +43,8 @@ jobs:
       - name: Add deployment news entry
         run: |
           DATE=$(date -u +"%Y-%m-%d")
-          printf -- '---\nlayout: post\ndate: %s\ninline: true\nrelated_posts: false\n---\n\nWebsite last updated on %s.\n' "$DATE" "$DATE" > _news/website_updated.md
+          DISPLAY_DATE=$(date -u +"%B %-d, %Y")
+          printf -- '---\nlayout: post\ndate: %s\ninline: true\nrelated_posts: false\n---\n\nWebsite last updated on %s.\n' "$DATE" "$DISPLAY_DATE" > _news/website_updated.md
 
       - name: Build with Jekyll
         run: |
