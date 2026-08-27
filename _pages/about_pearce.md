@@ -1,0 +1,1 @@
+Michelle Pearce is a PhD student in Nursing at UTA with a background in neonatal intensive care (RNC-NIC) at Parkland Hospital. Her research focuses on neonatal pain monitoring through the PRAMS project.

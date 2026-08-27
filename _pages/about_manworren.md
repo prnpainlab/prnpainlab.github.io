@@ -1,0 +1,1 @@
+Dr. Renee CB Manworren, PhD, APRN, PCNS-BC, PMGT-BC, AP-PMN, FAAN is a professor in the College of Nursing at Texas A&M University. She leads the PRN PAIN Lab, focusing on pediatric pain assessment, management, and outcomes through innovative technologies and evidence-based practice.

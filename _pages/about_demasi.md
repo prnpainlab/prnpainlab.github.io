@@ -1,0 +1,1 @@
+James M. DeMasi is a PhD student in Nursing at UTA and a certified pediatric nurse practitioner (CPNP-AC/PC) at Children's Health Dallas. His research focuses on neonatal pain recognition through the PRAMS project.
