@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <style>
-.prams-banner { width: 100%; border-radius: 8px; margin-bottom: 1.5rem; aspect-ratio: 3/1; object-fit: cover; object-position: center center; }
+.prams-banner { width: 100%; max-height: 350px; border-radius: 8px; margin-bottom: 1.5rem; object-fit: contain; }
 .prams-hero { text-align: center; margin-bottom: 2rem; }
 .prams-hero h2 { font-size: 1.05rem; font-style: italic; color: var(--global-theme-color); margin-top: 0.5rem; }
 .prams-highlight { border-left: 4px solid var(--global-theme-color); padding: 1rem 1.25rem; margin: 1.5rem 0; background: rgba(0,100,177,0.04); font-style: italic; font-size: 1rem; line-height: 1.7; }

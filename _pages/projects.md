@@ -22,7 +22,7 @@ Current projects include **MIDAS** (Modeling Inter-individual Differences to Add
 
 <p style="margin-bottom: 1.4rem; font-weight: 700;">This statement serves as permission to use and duplicate the ©2019 Renee Manworren: Pediatric Healthcare Providers' Knowledge and Attitudes Survey Regarding Pain for clinical, educational, and research purposes.  It does not authorize any changes to the survey, except changes to the demographic questions to reflect your study subjects.</p>
 
-<p style="margin-bottom: 1.4rem;">You can direct healthcare providers and/or students to access the survey on our website at <a href="https://prnpainlab.uta.edu/" style="color: #0064b1;">https://prnpainlab.uta.edu/</a> under the Pediatric Pain PRN Curriculum tab by clicking on the blue "<strong>begin the test</strong>" link or <strong>the button below.</strong> If you print and use the tool on paper to migrate this into your own secure survey system, please note that it uses branching logic (changes by prescriber, care of patients with cancer, and profession). You can trial the survey without storing the data by including "Manworren" in the unique identifier field.</p>
+<p style="margin-bottom: 1.4rem;">You can direct healthcare providers and/or students to access the survey by <a href="https://utaedu.questionpro.com/a/TakeSurvey?tt=5lEwPCvYG6wECHrPeIW9eQ%3D%3D" style="color: #0064b1;">clicking here to take the test</a> or <strong>the button below.</strong> If you print and use the tool on paper to migrate this into your own secure survey system, please note that it uses branching logic (changes by prescriber, care of patients with cancer, and profession). You can trial the survey without storing the data by including "Manworren" in the unique identifier field.</p>
 
 <p style="margin-bottom: 1.4rem;">Permission for the use of this survey has been granted to hundreds of organizations in the United States, as well as institutions in the United Kingdom, Ireland, Australia, South Africa, Canada, &amp; New Zealand. These surveys have been translated by researchers and educators in China, Greece, Indonesia, Iran, Iraq, Israel, Italy, Korea, Malaysia, Mongolia, Norway, Peru, Philippines, Portugal, Qatar, Switzerland, Taiwan, and Vietnam for use with healthcare professionals in these countries. Publications on the survey have been cited by authors from 42 countries across 6 continents, indicating widespread dissemination (source: Scopus).</p>
 
@@ -34,7 +34,7 @@ Current projects include **MIDAS** (Modeling Inter-individual Differences to Add
 </div>
 
 <div style="text-align: center; margin-bottom: 2.5rem;">
-<a href="https://prnpainlab.uta.edu/" style="display: inline-block; border: 2px solid var(--global-text-color); padding: 0.3rem 2rem; font-family: Arial, Helvetica, sans-serif; font-size: 0.95rem; font-weight: 700; text-decoration: none; color: var(--global-text-color); letter-spacing: 0.03em;">CLICK HERE TO TAKE THE TEST</a>
+<a href="https://utaedu.questionpro.com/a/TakeSurvey?tt=5lEwPCvYG6wECHrPeIW9eQ%3D%3D" style="display: inline-block; border: 2px solid var(--global-text-color); padding: 0.3rem 2rem; font-family: Arial, Helvetica, sans-serif; font-size: 0.95rem; font-weight: 700; text-decoration: none; color: var(--global-text-color); letter-spacing: 0.03em;">CLICK HERE TO TAKE THE TEST</a>
 </div>
 
 <!-- pages/projects.md -->

@@ -17,7 +17,6 @@ nav_order: 7
   <img src="/assets/img/partners/nsf.png" alt="National Science Foundation" style="max-height: 90px; max-width: 160px; object-fit: contain;">
   <img src="/assets/img/partners/nih.png" alt="National Institutes of Health" style="max-height: 90px; max-width: 160px; object-fit: contain;">
   <img src="/assets/img/partners/ninr.png" alt="National Institute of Nursing Research" style="max-height: 90px; max-width: 160px; object-fit: contain;">
-  <img src="/assets/img/partners/cs_mott.jpg" alt="C.S. Mott Foundation" style="max-height: 90px; max-width: 160px; object-fit: contain;">
   <img src="/assets/img/partners/mayday_fund.png" alt="The Mayday Fund" style="max-height: 90px; max-width: 160px; object-fit: contain;">
 </div>
 
@@ -38,6 +37,7 @@ nav_order: 7
   <img src="/assets/img/partners/advocate_aurora.png" alt="Advocate Aurora Health" style="max-height: 80px; max-width: 180px; object-fit: contain;">
   <img src="/assets/img/partners/shirley_ryan.png" alt="Shirley Ryan AbilityLab" style="max-height: 80px; max-width: 180px; object-fit: contain;">
   <img src="/assets/img/partners/kavi_global.png" alt="Kavi Global" style="max-height: 80px; max-width: 180px; object-fit: contain;">
+  <img src="/assets/img/partners/Mott Logo.png" alt="C.S. Mott Children's Hospital" style="max-height: 80px; max-width: 180px; object-fit: contain;">
 </div>
 
 </div>

@@ -28,13 +28,13 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Pre/Post Assessment
+<p><strong>Pre/Post Assessment</strong></p>
 
 <div class="module-card">
 <h4>Pediatric Healthcare Providers Knowledge and Attitude Survey Regarding Pediatric Pain</h4>
 <p>Pre-test and post-test to evaluate curriculum effectiveness.</p>
 <div class="btn-row">
-<a href="#" class="btn-dl btn-dl-primary">Begin the Test</a>
+<a href="https://utaedu.questionpro.com/a/TakeSurvey?tt=5lEwPCvYG6wECHrPeIW9eQ%3D%3D" class="btn-dl btn-dl-primary" target="_blank">Begin the Test</a>
 </div>
 </div>
 
@@ -42,26 +42,26 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Essential Guides
+<p><strong>Essential Guides</strong></p>
 
 <div class="module-card">
 <h4>Course Director Guide</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Download the Guide (PDF)</a>
+<a href="/assets/pdf/2020_pediatricprn_cd.pdf" class="btn-dl" target="_blank">Download the Guide (PDF)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Participant Guide</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Download the Guide (PPTX)</a>
+<a href="/assets/pdf/2020.participant_guide_05_26.pptx" class="btn-dl" download>Download the Guide (PPTX)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Facilitator Guide</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Download the Guide (PPTX)</a>
+<a href="/assets/pdf/facilitator_guide_05_26.pptx" class="btn-dl" download>Download the Guide (PPTX)</a>
 </div>
 </div>
 
@@ -69,45 +69,45 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Implementing PRN Program
+<p><strong>Implementing PRN Program</strong></p>
 
 <div class="module-card">
 <h4>Welcome</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Slides (PPTX)</a>
-<a href="#" class="btn-dl">Facilitator Script (PDF)</a>
+<a href="/assets/pdf/implementing PRN Program/welcome_slides_2020_fix.pptx" class="btn-dl" download>Slides (PPTX)</a>
+<a href="/assets/pdf/implementing PRN Program/2020_welcome_fg_fix.pdf" class="btn-dl" target="_blank">Facilitator Script (PDF)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Change & Overcoming Barriers</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Slides (PPTX)</a>
-<a href="#" class="btn-dl">Facilitator Script (PDF)</a>
+<a href="/assets/pdf/implementing PRN Program/2020.change_overcome_barrier_course_slide_05_26.pptx" class="btn-dl" download>Slides (PPTX)</a>
+<a href="/assets/pdf/implementing PRN Program/2020_change_overcoming_barriers_fg_fix.pdf" class="btn-dl" target="_blank">Facilitator Script (PDF)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Education Strategies</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Slides (PPTX)</a>
-<a href="#" class="btn-dl">Facilitator Script (PDF)</a>
+<a href="/assets/pdf/implementing PRN Program/2020.education_strategies.pptx" class="btn-dl" download>Slides (PPTX)</a>
+<a href="/assets/pdf/implementing PRN Program/2019_education_stratigies_fg_fix.pdf" class="btn-dl" target="_blank">Facilitator Script (PDF)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Communicate, Advocate & Lead Change</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Slides (PPTX)</a>
-<a href="#" class="btn-dl">Facilitator Script (PDF)</a>
+<a href="/assets/pdf/implementing PRN Program/2020.communicate_advocate_lead_change.pptx" class="btn-dl" download>Slides (PPTX)</a>
+<a href="/assets/pdf/implementing PRN Program/2020_communicate_advocate_lead_change_fix.pdf" class="btn-dl" target="_blank">Facilitator Script (PDF)</a>
 </div>
 </div>
 
 <div class="module-card">
 <h4>Data to Inform Change</h4>
 <div class="btn-row">
-<a href="#" class="btn-dl">Slides (PPTX)</a>
-<a href="#" class="btn-dl">Facilitator Script (PDF)</a>
+<a href="/assets/pdf/implementing PRN Program/2020.data_to_inform_change.pptx" class="btn-dl" download>Slides (PPTX)</a>
+<a href="/assets/pdf/implementing PRN Program/2020_data_inform_change_fg_fix.pdf" class="btn-dl" target="_blank">Facilitator Script (PDF)</a>
 </div>
 </div>
 
@@ -115,7 +115,7 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Core Subject Guides
+<p><strong>Core Subject Guides</strong></p>
 
 <div class="module-card">
 <h4>Pain Theories</h4>
@@ -201,7 +201,7 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Specialty Subject Guides
+<p><strong>Specialty Subject Guides</strong></p>
 
 <div class="module-card">
 <h4>Abdominal Pain</h4>
@@ -277,28 +277,28 @@ For questions regarding the curriculum, contact [renee.manworren@tamu.edu](mailt
 
 <div class="curriculum-section">
 
-## Appendix
+<p><strong>Appendix</strong></p>
 
 <div class="module-card">
 <h4>Templates & Resources</h4>
 <div class="btn-row" style="flex-direction: column;">
-<a href="#" class="btn-dl">Pain Management Cases (DOC)</a>
-<a href="#" class="btn-dl">Pain Resource Nurse Business Plan Example (DOCX)</a>
-<a href="#" class="btn-dl">Pediatric Pain PRN Acceptance Letter Template (DOCX)</a>
-<a href="#" class="btn-dl">Pediatric Pain PRN Application (DOCX)</a>
-<a href="#" class="btn-dl">Pediatric Pain Resource Nurse: Project Plan Template (DOCX)</a>
-<a href="#" class="btn-dl">PRN 3.5 Hour Agenda (DOCX)</a>
-<a href="#" class="btn-dl">PRN 1/2 Day Agenda (DOCX)</a>
-<a href="#" class="btn-dl">PRN 1 Day Agenda (DOCX)</a>
-<a href="#" class="btn-dl">PRN 2 Day Agenda (DOCX)</a>
-<a href="#" class="btn-dl">PRN Budget Worksheet (DOCX)</a>
-<a href="#" class="btn-dl">PRN Curriculum Facilitator Worksheet (DOCX)</a>
-<a href="#" class="btn-dl">PRN Evaluation Document (DOCX)</a>
-<a href="#" class="btn-dl">PRN Project Update Template (DOCX)</a>
-<a href="#" class="btn-dl">Pediatric Pain PRN Role: Description & Responsibilities (DOCX)</a>
-<a href="#" class="btn-dl">PRN Stakeholder Letter Template (DOCX)</a>
-<a href="#" class="btn-dl">PRN Timeline Checklist (DOCX)</a>
-<a href="#" class="btn-dl btn-dl-primary">Download All Appendix Documents (ZIP)</a>
+<a href="/assets/pdf/appendix/pain-management-cases-lurie-residents-with-discussion-guide2-21-14final.doc" class="btn-dl" download>Pain Management Cases (DOC)</a>
+<a href="/assets/pdf/appendix/pain-resource-nurse-business-plan-example.docx" class="btn-dl" download>Pain Resource Nurse Business Plan Example (DOCX)</a>
+<a href="/assets/pdf/appendix/pediatric-pain-prn-acceptance-letter-template.docx" class="btn-dl" download>Pediatric Pain PRN Acceptance Letter Template (DOCX)</a>
+<a href="/assets/pdf/appendix/pediatric-pain-prn-application.docx" class="btn-dl" download>Pediatric Pain PRN Application (DOCX)</a>
+<a href="/assets/pdf/appendix/pediatric-pain-resource-nurse-project-template_jh.docx" class="btn-dl" download>Pediatric Pain Resource Nurse: Project Plan Template (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-3.5hour-block-agendas.docx" class="btn-dl" download>PRN 3.5 Hour Agenda (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-halfday-agendas.docx" class="btn-dl" download>PRN 1/2 Day Agenda (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-1day-agendas.docx" class="btn-dl" download>PRN 1 Day Agenda (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-2day-agenda.docx" class="btn-dl" download>PRN 2 Day Agenda (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-budget-worksheet.docx" class="btn-dl" download>PRN Budget Worksheet (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-curriculum-facilitator-worksheet.docx" class="btn-dl" download>PRN Curriculum Facilitator Worksheet (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-evaluation-document.docx" class="btn-dl" download>PRN Evaluation Document (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-project-update-template.docx" class="btn-dl" download>PRN Project Update Template (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-project-update-template.docx" class="btn-dl" download>Pediatric Pain PRN Role: Description & Responsibilities (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-stakeholder-letter-draft-edits.docx" class="btn-dl" download>PRN Stakeholder Letter Template (DOCX)</a>
+<a href="/assets/pdf/appendix/prn-timeline-checklist-edits.docx" class="btn-dl" download>PRN Timeline Checklist (DOCX)</a>
+<a href="/assets/pdf/appendix/appendix.zip" class="btn-dl btn-dl-primary" download>Download All Appendix Documents (ZIP)</a>
 </div>
 </div>
 
